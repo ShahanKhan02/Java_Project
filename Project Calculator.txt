@@ -1,0 +1,4 @@
+23/06/22 22:06:41
+First number: 5.0
+Second answer: 5.0
+Result: 25.00

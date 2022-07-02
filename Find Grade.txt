@@ -1,0 +1,24 @@
+23/06/22 22:04:33
+English: 72
+Urdu: 56
+Physics: 65
+Chemistry: 47
+Biology: 74
+Pak Study: 35
+Islamiat: 45
+Obtained Marks: 459
+Percentage: 83.45%
+Grade: A
+
+24/06/22 13:17:20
+English: 65
+Urdu: 74
+Physics: 45
+Chemistry: 55
+Biology: 65
+Pak Study: 45
+Islamiat: 40
+Obtained Marks: 424
+Percentage: 77.09%
+Grade: B
+

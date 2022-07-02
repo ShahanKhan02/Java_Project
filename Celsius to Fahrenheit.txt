@@ -1,0 +1,7 @@
+
+24/06/22 11:43:18
+Celsius: 45
+45? is equal to 113.00?
+
+Celsius: 24
+24? is equal to 75.20?

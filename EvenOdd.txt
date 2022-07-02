@@ -1,0 +1,7 @@
+
+Number: 17
+Result: ODD
+Number: 17
+Result: ODD
+Number: 
+Result: 

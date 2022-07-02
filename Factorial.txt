@@ -1,0 +1,3 @@
+23/06/22 22:03:25
+Number: 40
+The Factorial of 40 is 0
